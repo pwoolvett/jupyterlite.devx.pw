@@ -29,6 +29,13 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.8dcc730aedc487734a23.js",
+        "name": "@jupyterlite/webrtc-docprovider",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.af71ba374fc8128e6506.js",
         "name": "bqplot"
       },
@@ -66,7 +73,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.e36921af02dc11718a41.js",
+        "load": "static/remoteEntry.e2bf80f6515beeab9026.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },
