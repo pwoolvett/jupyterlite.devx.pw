@@ -36,6 +36,12 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.d1a17acff11fc65c0e71.js",
+        "name": "@oriolmirosa/jupyterlab_materialdarker"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.af71ba374fc8128e6506.js",
         "name": "bqplot"
       },
