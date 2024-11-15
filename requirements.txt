@@ -11,7 +11,7 @@ jupyterlite-pyodide-kernel==0.4.2
 jupyterlite-javascript-kernel==0.3.0
 
 # JupyterLab: dark theme
-jupyterlab_materialdarker
+jupyterlab_miami_nights
 
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.1.3,<9
