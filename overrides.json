@@ -1,0 +1,29 @@
+{
+  "@jupyterlab/apputils-extension:themes": {
+    "theme": "JupyterLab Miami Nights"
+  },
+  "@jupyterlab/notebook-extension:panel": {
+    "toolbar": [
+      {
+        "name": "download",
+        "label": "Download",
+        "args": {},
+        "command": "docmanager:download",
+        "icon": "ui-components:download",
+        "rank": 50
+      }
+    ]
+  },
+  "@jupyterlite/webrtc-docprovider:plugin": {
+    "disabled": false,
+    "room": "an pre-shared room name",
+    "roomPrefix": "a-very-unique-name",
+    "signalingUrls": [
+      "wss://y-webrtc-signaling-eu.herokuapp.com",
+      "wss://y-webrtc-signaling-us.herokuapp.com",
+      "wss://signaling.yjs.dev"
+    ],
+    "usercolor": "f57c00",
+    "username": "Jo V. Un"
+  }
+}
