@@ -27,3 +27,6 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Enabling RTC in JupyterLite
+jupyterlab-webrtc-docprovider
