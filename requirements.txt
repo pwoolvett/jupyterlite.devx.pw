@@ -30,3 +30,6 @@ bqplot
 
 # Enabling RTC in JupyterLite
 jupyterlab-webrtc-docprovider
+
+jupyterlab-filesystem-access
+jupyterlab-open-url-parameter
